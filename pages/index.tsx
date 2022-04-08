@@ -7,7 +7,7 @@ const Home = () => {
     <section className="w-full h-screen bg-dunes bg-cover bg-center relative">
       <Image src={bgHome} className='z-[-1] object-cover md:h-full md:w-48 ' alt='background home image' />
       <div className='absolute w-128 h-1/3 top-1/2 left-1/2 p-6 bg-black/90 rounded-lg text-center transform -translate-x-1/2 -translate-y-1/2 z-[1000]' >
-        <p className='text-xl	text-white text-center mb-10'>
+        <p className='text-xl	text-white text-center mb-8'>
           Verifique seus projetos de construção através da Check PLUS, e ganhe mais assertividade nas submissões a prefeitura!
           Preencha os dados no link ao abaixo e aumente sua eficiência!
         </p>
